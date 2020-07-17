@@ -52,3 +52,16 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.Restart{
+  background-color: #FEF2BF;
+  font-size: 2rem;
+  padding: 0.5%;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 16px;
+  height: 50px;
+  width: 200px;
+  margin:30px auto;
+
+}

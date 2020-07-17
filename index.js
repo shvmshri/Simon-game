@@ -73,3 +73,12 @@ function checkAnswer(ind){
         return "wrong";
     }
 }
+
+$(".Restart").click(function(){
+    start = true;
+    Level = 0;
+    gameSequence =[];
+    userSequence =[];
+    setTimeout(nextSequence,150);
+
+});
